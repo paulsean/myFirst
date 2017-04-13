@@ -1,5 +1,7 @@
+package com.test.main;
+
 /**
- * Created by Administrator on 2017-4-13.
+ * this is my test
  */
 public class HelloGit {
     public static void main(String[] args) {
